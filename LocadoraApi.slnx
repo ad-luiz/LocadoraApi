@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Locadora.Application/Locadora.Application.csproj" Id="66162eb0-891a-4619-8046-534402a3bdc8" />
+  <Project Path="Locadora.Domain/Locadora.Domain.csproj" Id="63d7891f-4800-403a-9e46-3c3aaaa3ff0a" />
+  <Project Path="Locadora.Infrastructure/Locadora.Infrastructure.csproj" Id="c8bb107e-dade-4033-9762-f8fb7d38deaf" />
+  <Project Path="LocadoraApi/LocadoraApi.csproj" />
+</Solution>
