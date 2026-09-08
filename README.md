@@ -64,8 +64,6 @@ O projeto utiliza uma estrutura organizada para separar as responsabilidades da 
 | POST   | `/api/locacoes`                | Registra uma locação |
 | PUT    | `/api/locacoes/{id}/devolucao` | Registra a devolução |
 
-> Os endpoints podem variar conforme a implementação atual do projeto.
-
 ## 📝 Exemplo de requisição
 
 ### Cadastro de filme
